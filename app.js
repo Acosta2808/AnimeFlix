@@ -6,7 +6,7 @@ const animes = [
         image: "https://cdn.myanimelist.net/images/anime/5/85434.jpg",
         synopsis: "Mientras Kobayashi se dirige a otro día de trabajo, abre la puerta de su apartamento y se encuentra con una vista inusualmente aterradora —la cabeza de un dragón, mirándola desde el otro lado del balcón. El dragón se transforma inmediatamente en una joven linda, tetona y enérgica vestida con un traje de sirvienta, presentándose como Tooru.",
         episodes: [
-            { title: "Episodio 1", video: "episodio/2671_1.mp4" },
+            { title: "Episodio 1", video: "https://drive.google.com/drive/folders/1KsiYsyykIupPWLa2O0yHfOMIhFJaxEqA" },
             { title: "Episodio 2", video: "episodio/1_2.mp4" }
         ]
     },
